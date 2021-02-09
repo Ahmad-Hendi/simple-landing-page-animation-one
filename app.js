@@ -1,4 +1,4 @@
-
+alert('tess')
 
 // select the parts that i want to animate
 const hero = document.querySelector('.hero');
